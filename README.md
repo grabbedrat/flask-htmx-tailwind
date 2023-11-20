@@ -1,4 +1,4 @@
-# Flask Tailwind HTMX Project
+# Flask Tailwind HTMX Project Template
 
 This is a Flask web application utilizing Tailwind CSS for styling and HTMX for dynamic content without writing JavaScript.
 
