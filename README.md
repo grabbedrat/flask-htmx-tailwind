@@ -21,7 +21,7 @@ This is a Flask web application utilizing Tailwind CSS for styling and HTMX for 
 Clone, Navigate, Create a virtual environment:
 
 ```
-git clone <repository-url>
+git clone https://github.com/grabbedrat/flask-htmx-tailwind.git
 cd flask-tailwind-htmx
 python3 -m venv venv
 ```
@@ -37,6 +37,11 @@ On MacOS/Linux:
 Install Flask:
 
 ```pip install Flask```
+
+Install Tailwind CSS:
+
+```npm install -D tailwindcss```
+```npx tailwindcss init```
 
 # Running the Application
 
